@@ -1,0 +1,19 @@
+{
+  "name": "linter-dekiscript",
+  "main": "./lib/init",
+  "linter-package": true,
+  "activationEvents": [],
+  "version": "0.0.1",
+  "description": "The linter for DekiScript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MindTouch/linter-dekiscript"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "dekilint": "aaronmars/dekilint"
+  }
+}
