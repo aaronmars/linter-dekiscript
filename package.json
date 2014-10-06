@@ -7,7 +7,7 @@
   "description": "The linter for DekiScript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MindTouch/linter-dekiscript"
+    "url": "https://github.com/aaronmars/linter-dekiscript"
   },
   "license": "MIT",
   "engines": {
